@@ -3,8 +3,8 @@
 Download pode ser feito via git clone em cada submódulo, ou download do repositório inteiro:
 
 ```bash
-git clone https://github.com/your-username/my_repos.git
-cd my_repos
+git clone https://github.com/Draylon/ppgca_aula_repo
+cd ppgca_aula_repo
 git submodule update --init --recursive
 ```
 
