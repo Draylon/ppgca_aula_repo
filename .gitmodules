@@ -1,0 +1,6 @@
+[submodule "cats_vs_dogs"]
+	path = cats_vs_dogs
+	url = https://github.com/Draylon/cats_vs_dogs
+[submodule "ann_example"]
+	path = ann_example
+	url = https://github.com/Draylon/simple_ann_example
